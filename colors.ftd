@@ -1,11 +1,11 @@
 ;; **** Change all colors given in below places and remove this line ****
 -- ftd.color base-:
 light: #faebd7
-dark: #240002
+dark: #0B0D0F
 
 -- ftd.color step-1-:
 light: #e3bc81
-dark: #550605
+dark: #191919
 
 -- ftd.color step-2-:
 light: #faad7b
@@ -36,11 +36,11 @@ dark: #3e0306
 
 -- ftd.color text-:
 light: #707070
-dark: #D9D9D9
+dark: #FFFFFF
 
 -- ftd.color text-strong-:
 light: #333333
-dark: #FFFFFF
+dark: #607185
 
 -- ftd.color shadow-:
 light: #6f0100
@@ -325,20 +325,20 @@ text: $warning-text-
 border: $warning-border-
 
 -- ftd.color custom-one-:
-light: #ed753a
-dark: #ed753a
+light: #607185
+dark: #607185
 
 -- ftd.color custom-two-:
-light: #f3db5f
-dark: #f3db5f
+light: #000000
+dark: #607185
 
 -- ftd.color custom-three-:
-light: #8fdcf8
-dark: #8fdcf8
+light: #A987FF
+dark: #A987FF
 
 -- ftd.color custom-four-:
-light: #7a65c7
-dark: #7a65c7
+light: #57B7FF
+dark: #57B7FF
 
 -- ftd.color custom-five-:
 light: #eb57be
